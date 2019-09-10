@@ -1,0 +1,16 @@
+{
+  "name": "carquery-with-listitem",
+  "version": "0.0.0",
+  "description": "5) Show CarQuery result in ListItem",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
+    "react-native-elements": "1.2.0",
+    "react-native-paper": "2.16.0",
+    "react-navigation": "4.0.0"
+  }
+}
